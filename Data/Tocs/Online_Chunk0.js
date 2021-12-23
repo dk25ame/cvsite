@@ -1,1 +1,0 @@
-define({'/About-Me.htm':{i:[0],t:['About Me '],b:['']},'/B-Professional-Work/Academia.htm':{i:[2],t:['Academia'],b:['']},'/B-Professional-Work/Professional-Work.htm':{i:[1],t:['Professional-Work'],b:['']},'/C-Amateur-Work/Amateur-Work.htm':{i:[3],t:['Amateur-Work'],b:['']},'/D-Reference/Contact-Info.htm':{i:[4],t:['Contact-Info'],b:['']}});
